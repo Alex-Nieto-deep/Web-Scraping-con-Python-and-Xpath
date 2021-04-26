@@ -1,0 +1,9 @@
+Siemens y Google firman acuerdo para soluciones de Inteligencia Artificial
+
+La cooperación permitirá simplificar los procesos in situ, facilitar la implementación de IA en conexión con Industrial Edge y mejora trabajo
+
+ y Siemens anunciaron este viernes un nuevo acuerdo de cooperación que busca optimizar los procesos de producción en las industrias, así como su productividad.
+En un comunicado conjunto, las compañías explicaron que "Siemens tiene la intención de integrar la nube de datos líder de Google Cloud y las tecnologías de inteligencia artificial/ aprendizaje automático (IA/ML, sus siglas en inglés) con sus soluciones de automatización de fábrica para ayudar a los fabricantes a innovar para el futuro".
+Al combinar la nube de datos de Google Cloud y las capacidades de IA/ML con el portafolio de automatización de Siemens, los fabricantes podrán armonizar sus datos de fábrica, ejecutar modelos de inteligencia artificial basados en la nube sobre esa información e implementar algoritmos. Todo ello permitirá, dicen las compañías, simplificar los procesos in situ, facilitar la implementación de IA en conexión con Industrial Edge y mejorar la calidad del trabajo en sí mismo.
+"Esta cooperación combinará lo mejor de ambos mundos y llevará la IA/ML a la industria manufacturera a escala. Al simplificar la implementación de IA en casos de uso industrial, estamos ayudando a los empleados a aumentar su trabajo crítico en la planta de producción ", detalló Dominik Wee, director general de Manufactura e Industrial en Google Cloud.
+Lea la nota completa 
